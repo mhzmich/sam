@@ -1,0 +1,35 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f8ff;
+        color: #333;
+        margin: 20px;
+    }
+    
+    h1, h2 {
+        color: #2a4d69;
+        text-align: center;
+    }
+    
+    ul {
+        list-style-type: circle; /* Cambia el estilo del marcador */
+        margin-left: 40px;
+        line-height: 1.8; /* Más espacio entre líneas */
+        color: #555;
+    }
+    
+    img {
+        display: block;
+        margin: 20px auto;
+        border-radius: 10px;
+    }
+    
+    a {
+        color: #1e90ff;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
